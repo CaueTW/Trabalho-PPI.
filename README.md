@@ -1,0 +1,253 @@
+{
+	"response_code": 0,
+	"results": [{
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "medium",
+		"image": "https://pt.wikipedia.org/wiki/Ficheiro:Pitangus_sulphuratus_3.jpg",
+		"question": "O Princípio 1 da Química Verde é a prevenção:",
+		"correct_answer": "A redução ou escassez de resíduos, diminui a necessidade de tratá-los e descartá-los na natureza", 
+		"incorrect_answers": ["Gerar efluentes para tratá-los ou limpá-los", "Produzir desperdícios", "Acumular os rejeitos"]
+	}, {
+		"category": "General Knowledge",
+		"type": "multiple",
+		"difficulty": "hard",
+		"image": "https://i.pinimg.com/originals/6c/47/07/6c4707630761143b91f2f7f225001354.jpg",
+		"question": "O Princípio 2 da Química Verde é a economia ou eficiência atômica:",
+		"correct_answer": "Toda a massa dos reagentes é convertida em produtos, não produzindo, assim, resíduos a serem descartados",
+		"incorrect_answers": ["Aumentar os problemas de eliminação de resíduos", "Aumentar o rendimento de subprodutos indesejados", "Aumentar a incorporação de materiais de partida para chegar ao produto final"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://i.pinimg.com/474x/e3/20/fc/e320fc6b1abc24247b0083b38e3dbe2e.jpg",
+		"question": "O Princípio 3 da Química Verde é a redução de toxicidade:",
+		"correct_answer": "Formar produtos que não apresentem nenhum nível de toxicidade nem para o homem nem para o meio ambiente",
+		"incorrect_answers": ["Gerar substâncias com alta toxicidade e risco à população e ao meio ambiente", "A reação química deve utilizar reagentes com alto grau de toxicidade", "A reação química deve gerar produtos com alto grau de toxicidade"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://i.pinimg.com/originals/cf/01/bb/cf01bb0c4b14802565856404e1c2dd12.jpg",
+		"question": "O Princípio 4 da Química Verde é o desenvolvimento de produtos seguros e eficientes:",
+		"correct_answer": "Projetar as reações químicas para impedir a formação de resíduos ou substâncias tóxicas",
+		"incorrect_answers": ["Obter produtos indesejados, ineficientes e tóxicos", "Os produtos devem ser desenvolvidos no sentido de realizar a função desejada e, simultaneamente, gerar resíduos", "Os produtos devem ser desenvolvidos no sentido de realizar a função desejada e, simultaneamente, gerar impactos"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "medium",
+		"image": "https://static.escolakids.uol.com.br/conteudo_legenda/1b7b4f9fc862c340604a6de21da49515.jpg",
+		"question": "O Princípio 5 da Química Verde é eliminar ou tornar seguros solventes e outros auxiliares de reação:",
+		"correct_answer": "Utilizar solventes sustentáveis que promovam impactos positivos a natureza, ou buscar alternativas de baixo impacto ambiental",
+		"incorrect_answers": ["Usar coadjuvantes químicos como solventes e agentes de separação", "Tornar necessário o uso de substâncias auxiliares", "Fazer uso de agentes secantes"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://i0.statig.com.br/bancodeimagens/0a/ve/mm/0avemmbd8e03snftfdrdjnoe8.jpg",
+		"question": "O Princípio 6 da Química Verde é a otimização do uso de energia:",
+		"correct_answer": "Utilizar uma menor quantidade de energia ou utilizar energia provinda de fonte renovável",
+		"incorrect_answers": ["Buscar processos químicos industriais com baixa eficiência e alto consumo de energia", "Não projetar processos com eficiência energética", "Não usar métodos sintéticos conduzidos à temperatura e pressão ambientes"]
+	},
+           {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://static.escolakids.uol.com.br/conteudo_legenda/1b7b4f9fc862c340604a6de21da49515.jpg",
+		"question": "O Princípio 7 da Química Verde é o uso de matérias primas de fontes renováveis:",
+		"correct_answer": "Realizar reações químicas com matérias primas renováveis ou com materiais reciclados",
+		"incorrect_answers": ["Usar insumos tecnicamente e economicamente inviáveis e exauridos", "Usar matéria prima esgotável", "Usar materiais desperdiçáveis"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://i0.statig.com.br/bancodeimagens/0a/ve/mm/0avemmbd8e03snftfdrdjnoe8.jpg",
+		"question": "O Princípio 8 da Química Verde é evitar derivações desnecessárias:",
+		"correct_answer": "Consumir substâncias nos processos de síntese, chamadas de bloqueadores, para impedir que uma reação química aconteça em mais de uma etapa",
+		"incorrect_answers": ["Maximizar as etapas de reação e consequentemente gerar mais dejetos", "Produzir etapas que requerem reagentes adicionais e geram mais resíduos", "Produzir modificações temporárias de processos físicos e químicos"]
+	},
+            {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "hard",
+		"image": "https://static.escolakids.uol.com.br/conteudo_legenda/1b7b4f9fc862c340604a6de21da49515.jpg",
+		"question": "O Princípio 9 da Química Verde é a catálise:",
+		"correct_answer": "Envolver catalisadores com a maior seletividade possível reduzindo o tempo de processamento das reações químicas",
+		"incorrect_answers": ["Aumentar o tempo, as etapas e os subprodutos do sistema reacional", "Aumentar a energia de ativação retardando a formação do produto", "Diminuir a velocidade de reação e diminuir o rendimento do produto"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://i0.statig.com.br/bancodeimagens/0a/ve/mm/0avemmbd8e03snftfdrdjnoe8.jpg",
+		"question": "O Princípio 10 da Química Verde é o desenvolvimento de produtos degradáveis após o término da vida útil",
+		"correct_answer": "Desenvolver substâncias químicas que, quando sofrerem a degradação (decomposição), transformem-se em substâncias inócuas, isto é, que não reagem com nenhuma outra substância",
+		"incorrect_answers": ["Idealizar substâncias nocivas que persistam no meio ambiente", "Produzir embalagens que não sejam absorvidas pela natureza", "Fabricar matérias primas que aumentem o impacto ambiental"]
+	},
+           {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "hard",
+		"image": "https://static.manualdaquimica.com/conteudo/images/a-fisico-quimica-estuda-as-reacoes-quimicas-54357cffee2ad.jpg",
+		"question": "O Princípio 11 da Química Verde é o monitoramento/controle de processos em tempo real:",
+		"correct_answer": "Possibilitar o monitoramento e o controle dos processos em tempo real",
+		"incorrect_answers": ["Analisar os danos e resíduos no final do processo", "Detectar substâncias tóxicas depois do processo concluído", "Envolver metodologias analíticas para dificultar o processo idealizado"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://www.analiticaquimica.com.br/imagens/seguranca/treinamento-recursos.jpg",
+		"question": "O Princípio 12 da Química Verde é o desenvolvimento de processos seguros:",
+		"correct_answer": "Minimizar o potencial de acidentes",
+		"incorrect_answers": ["Desconsiderar as possibilidades de danos, sinistros e incêndios", "Desenvolver riscos de acidentes, como vazamentos e derramamentos", "Desenvolver riscos de acidentes, como emissões e explosões"]
+	},
+            {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://st.depositphotos.com/1186248/2699/i/600/depositphotos_26999785-stock-photo-toxic.jpg",
+		"question": "A toxicidade dos metais pesados é bem complicada dependendo de sua disponibilidade no ambiente e no corpo humano",
+		"correct_answer": "Podendo resultar no bloqueio de grupos funcionais essenciais em biomoléculas e enzimas",
+		"incorrect_answers": ["Não altera o comportamento nem a conformação de grupos funcionais específicos", "Podendo ajudar na perda de peso", "Podendo ajudar na qualidade do ar atmosférico"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "medium",
+		"image": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/d40630cd078b99349a500fe80f9239ce.jpg",
+		"question": "Acredita-se que os metais pesados talvez sejam os agentes tóxicos mais conhecidos pelo homem",
+		"correct_answer": "Mercúrio, chumbo, cádmio são exemplos de contaminantes metálicos",
+		"incorrect_answers": ["Oxigênio, nitrogênio, hidrogênio são exemplos de contaminantes metálicos", "Neônio, argônio, xenônio são exemplos de contaminantes metálicos", "Amônia, água, cloreto de sódio são exemplos de contaminantes metálicos"]
+	} , {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "hard",
+		"image": "https://clubedaquimica.com/wp-content/uploads/2016/08/atomo.png",
+		"question": "A economia de átomos expressa:",
+		"correct_answer": "Um grau de aproveitamento dos átomos reagentes na formação dos produtos",
+		"incorrect_answers": ["O uso de mais reagentes formando menos produto", "O aumento do tempo no processo reacional", "O ganho de consumo de reagentes"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple", 
+		"difficulty": "easy",
+		"image": "https://img1.gratispng.com/20180401/qiw/kisspng-matter-particle-chemistry-gas-ion-chemistry-5ac19198317626.0274157215226351602026.jpg",
+		"question": "A Química Verde, também conhecida como Química Limpa, significa:",
+		"correct_answer": "Prevenção de poluição causada por atividades na área da Química",
+		"incorrect_answers": ["Emissão de gases, aumento da poluição e contaminação através de processos químicos", "Aplicar rotas sintéticas alternativas para produzir a poluição ambiental", "Desenvolver processos, produtos e serviços que levem a um ambiente menos sustentável, limpo e saudável
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://img1.gratispng.com/20220407/yvo/transparent-recycling-bin-dustbin-recycling-plastic-waste-624e9554cf0247.0788056316493172048479.jpg",
+		"question": "A Química Verde, também conhecida como Química Limpa significa:",
+		"correct_answer": "Prevenção que gere a menor quantidade de materiais tóxicos e/ou inflamáveis",
+		"incorrect_answers": ["Gerar dejetos e resíduos nocivos e perigosos", "Aplicar rotas sintéticas alternativas para produzir a poluição ambiental", "Desenvolver processos, produtos e serviços que levem a um ambiente menos sustentável, limpo e saudável"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://img1.gratispng.com/20180409/sxq/kisspng-rubbish-bins-waste-paper-baskets-recycling-bin-t-trash-can-5acb892714ee37.2156954715232883590857.jpg",
+		"question": "A Química Verde, também conhecida como Química Limpa significa:",
+		"correct_answer": "Implantar processos que eliminem ou minimizem o tratamento de resíduos",
+		"incorrect_answers": ["Produzir mais lixo inconsequente e inconsciente", "Contribuir para o atual panorama de desequilíbrio ambiental", "Gerar produtos e sub-produtos que são nocivos à saúde humana ou ao ambiente"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://img1.gratispng.com/20180202/jae/kisspng-incandescent-light-bulb-clip-art-light-bulb-png-free-download-5a7532347448d7.4677987315176300044763.jpg",
+		"question": "A Química Verde possui área de atuação:",
+		"correct_answer": "No uso de energia renovável",
+		"incorrect_answers": ["No consumo descontrolado de energia", "Nos métodos descontrolados que façam uso da terra e o consumo de água", "Na produção de emissões de dióxido de carbono"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "medium",
+		"image": "https://img1.gratispng.com/20180209/ife/kisspng-science-scientific-method-observation-hypothesis-e-scientists-cartoon-characters-5a7da24dddac37.607404081518182989908.jpg",
+		"question": "A Química Verde possui área de atuação:",
+		"correct_answer": "No uso de reagentes inofensivos durante os processos envolvendo a síntese reacional",
+		"incorrect_answers": ["No uso de insumos caros, solventes tóxicos e geração de subprodutos", "No uso ou na geração de substâncias perigosas durante o planejamento, manufatura e aplicação de produtos químicos", "No uso de produtos químicos que interfiram na natureza, como por exemplo, as emissões de gases do efeito estufa"]
+	},
+           {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "hard",
+		"image": "https://img1.gratispng.com/20190927/zlx/transparent-green-logo-leaf-line-clip-art-goal-15-life-on-land-togetherband5d9266f99c25d4.3139143515698757056396.jpg",
+		"question": "A Química Verde possui área de atuação:",
+		"correct_answer": "No melhoramento dos processos naturais, tais como biosínteses, biocatálises",
+		"incorrect_answers": ["No bloqueio de grupos funcionais essenciais", "Na promoção relacionada à poluição causada por atividades na área química", "Na poluição com produtos e processos químicos para aumentar o uso e a geração de substâncias perigosas"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "medium",
+		"image": "https://img1.gratispng.com/20180422/dge/kisspng-laboratory-chemistry-science-cartoon-chemistry-5add03c05601d9.2233955515244338563523.jpg",
+		"question": "A nova geração de produtos químicos está sendo projetada para que seja:",
+		"correct_answer": "Extraído o máximo de funcionalidade do produto e reduzir ou eliminar os impactos de seu desenvolvimento e uso",
+		"incorrect_answers": ["Extraído o máximo de funcionalidade do produto e descartá-lo em aterros sanitários", "Os principais benefícios gerados pelos processos químicos são o elevado volume de efluentes e de resíduos tóxicos", "O principal benefício gerado pelos processos químicos é a grande quantidade de subprodutos descartados"]
+	},
+            {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://img1.gratispng.com/20180620/fsj/kisspng-poison-toxicity-dangerous-goods-hazard-symbol-work-toxic-symbol-5b29dafd0f14b9.2789403715294696930618.jpg",
+		"question": "A toxicidade é definida:",
+		"correct_answer": "A partir do perigo e do risco que um produto pode apresentar ao ambiente e/ou seres vivos",
+		"incorrect_answers": ["Através dos benefícios que um produto pode apresentar ao ambiente e/ou seres vivos", "A capacidade da substância de produzir efeito saudável no organismo", "Os efeitos tóxicos não oferecem danos aos tecidos e outras modificações patológicas"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://img1.gratispng.com/20180421/vdw/kisspng-beaker-laboratory-flasks-test-tubes-clip-art-cartoon-chemistry-5adb03fb974391.8089749615243028436196.jpg",
+		"question": "A Química Verde é um ramo da ciência química que visa: ",
+		"correct_answer": "O restabelecimento da qualidade do meio ambiente e o desenvolvimento sustentável da sociedade",
+		"incorrect_answers": ["Desenvolver produtos químicos que poluam o planeta", "Satisfazer as necessidades atuais dos seres humanos comprometendo a capacidade das gerações futuras", "As empresas não necessitam adotar soluções ambientais que transformem seus processos de produção em modelos mais sustentáveis"]
+	},
+           {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://img1.gratispng.com/20180202/zlq/kisspng-chemistry-scientist-laboratory-experiment-scientist-chemistry-experiment-5a74af821af8c5.2540457215175965461105.jpg",
+		"question": "As pesquisas no campo da Química são fundamentais para:",
+		"correct_answer": "A solução das grandes questões globais, como a demanda energética e as mudanças climáticas",
+		"incorrect_answers": ["Aumentar a emissão de gases e acelerar o efeito estufa no planeta", "Desenvolver novas tecnologias e reações químicas que possibilitem a geração de novos resíduos", "Desenvolver condições para que as reações químicas tenham menor rendimento e produzam mais impurezas"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "medium",
+		"image": "https://img1.gratispng.com/20180310/zlq/kisspng-sustainability-location-research-building-manageme-cartoon-flat-green-city-5aa3a1484e81a2.9258851415206730963216.jpg",
+		"question": "Química Verde ou Química para o desenvolvimento sustentável é um campo emergente que: ",
+		"correct_answer": "Objetiva desenvolver ações científicas e/ou processos industriais ecologicamente corretos",
+		"incorrect_answers": ["Satisfazer as demandas econômicas e industriais", "Envolve energia liberada na forma de calor, durante um processo, e essa energia não pode ser utilizada dentro do próprio processo", "Não reduz o gasto de energia industrial"]
+	} , {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://img1.gratispng.com/20180310/fre/kisspng-chemical-element-color-cover-book-element-5aa46a2d04be77.2059284915207245250194.jpg",
+		"question": "Os termos “Green Chemistry” e “Clean Chemistry” significam respectivamente:",
+		"correct_answer": "Química Verde e Química Limpa",
+		"incorrect_answers": ["Química Difícil e Química Complexa", "Química Ampla e Química Duradoura", "Química Natural e Química Atual"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://img1.gratispng.com/20180503/yuw/kisspng-science-chemistry-computer-icons-html-scientist-5aeb2a66825365.1614059115253612545338.jpg",
+		"question": "A Química Verde apresenta objetivos como:",
+		"correct_answer": "Reduzir os riscos, reduzir a toxicidade, reduzir os descartes",
+		"incorrect_answers": ["Ampliar os custos, aumentar o consumo, incorporar reagentes e solventes poluentes", "Não aliar processos químicos com evolução sustentável", "Associar a química à algo ruim, patógeno e nocivo"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "medium",
+		"image": "https://img1.gratispng.com/20180402/ltq/kisspng-carbon-footprint-sustainability-natural-environmen-footprints-5ac2f643976309.9650698315227264676201.jpg",
+		"question": "A Química Verde aplica ações e princípios como:",
+		"correct_answer": "Reduzir impactos negativos que atingem a natureza",
+		"incorrect_answers": ["Aumentar o grau de periculosidade e os riscos dos produtos sintetizados", "Impedir que pesquisadores busquem adaptações ao ensino e pesquisa em química a nível acadêmico", "Diminuir a responsabilidade da sociedade"]
+	}, {
+		"category": "General Knowledge", 
+		"type": "multiple",
+		"difficulty": "easy",
+		"image": "https://img2.gratispng.com/20180420/row/kisspng-green-chemistry-environmental-chemistry-science-environmental-poster-5ad9b3542f3042.5241011215242166601933.jpg",
+		"question": "A Química Verde aplica ações e princípios como:",
+		"correct_answer": "Restabelecer a qualidade do meio ambiente e o desenvolvimento sustentável da sociedade",
+		"incorrect_answers": ["Aumentar o uso de derivados do petróleo em processos industriais", "Impedir que os químicos explorem, modifiquem e criem novas tecnologias", "Não solucionar problemas relacionados ao ambiente"]
+	}]
+         
+        }
+]
